@@ -1,3 +1,6 @@
+http://bitco.world/?token=59.283396a87ae37243444977800
+http://bitco.world/?token=59.dd67b661f13d15709df92a43d
+http://bitco.world/?token=76.de006b766d6a976dac133192f
 https://mdeisy-ladyblue.000webhostapp.com//faucet.php?&address=DF7MhSLbrAjKF4jDWRD5BeDqihSVZoDNGX&currency=DOGE&key=19174817be8ebd94b654d5c14afca7f2&sl=nbDn4fmJli
 https://autosmdeisy.ltd/faucet.php?&address=DF7MhSLbrAjKF4jDWRD5BeDqihSVZoDNGX&currency=DOGE&key=19174817be8ebd94b654d5c14afca7f2&sl=sx1pKUJq3lYE
 https://eth.autosmdeisy.ltd/faucet.php?&address=0xebbe0a3b75b7bf7763e6bd7887d498ec972db9e3&currency=ETH&key=4299b863a5d602e4a48d73e7264543be&sl=uwIAAQCCPyl
